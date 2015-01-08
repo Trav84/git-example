@@ -1,2 +1,5 @@
 # git-example
-Testing out how git works!
+Testing *out* how **git** works!
+- List 1
+- List 2
+- List 3
